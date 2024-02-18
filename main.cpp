@@ -31,6 +31,7 @@ VOID DiskOverwriter(VOID)
 
 int main(int argc, char* argv[])
 {
+	//For safety
 	system("pause");
 	system("pause");
 	system("pause");
